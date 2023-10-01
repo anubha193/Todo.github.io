@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo.github.io/static/css/main.f3829d13.css",
+    "main.js": "/Todo.github.io/static/js/main.55963515.js",
+    "index.html": "/Todo.github.io/index.html",
+    "main.f3829d13.css.map": "/Todo.github.io/static/css/main.f3829d13.css.map",
+    "main.55963515.js.map": "/Todo.github.io/static/js/main.55963515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3829d13.css",
+    "static/js/main.55963515.js"
+  ]
+}
